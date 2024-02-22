@@ -1,4 +1,4 @@
-const NotFound = () => {
+const NotFound = async () => {
   return (
     <div>
       <h2>Page not found</h2>
